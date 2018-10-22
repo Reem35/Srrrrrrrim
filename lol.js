@@ -899,9 +899,3 @@ client.on('message', message => {
         break;
     };
 });
-
-
-
- 
- 
-client.login('NTAwNzQ0MjgwNTI1MTExMzE2.DqPSSQ.h8OsAc2JwfNCfg4NCYKqxzHRpq0')
